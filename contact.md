@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
-# Contact Page
+# Contact
 
-This is the contact page.
+You can reach out via email at: example@example.com
+
+Or follow us on social media.

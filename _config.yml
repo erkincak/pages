@@ -1,3 +1,5 @@
-title: My  Site
-description: My github pages assignment
+title: My Jekyll Site
+description: A simple Jekyll website for GitHub Pages
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 theme: minima
